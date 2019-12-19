@@ -1,8 +1,8 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/turbonemesis/heroku-polls-frontend.git
-	branch = final
+	branch = master
 [submodule "backend"]
 	path = backend
 	url = https://github.com/turbonemesis/heroku-polls-backend.git
-	branch = final
+	branch = master
